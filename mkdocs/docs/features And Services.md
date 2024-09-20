@@ -2,8 +2,8 @@
 
 ### **Homepage**
 
-- **Welcome Section**: Introduces RapiDoc as a digital healthcare destination, emphasizing the ease and convenience of accessing healthcare services through the platform.
-- **Download App Button**: Encourages users to download the RapiDoc app for a more integrated experience.
+- **Welcome Section**: Introduces Medipool as a digital healthcare destination, emphasizing the ease and convenience of accessing healthcare services through the platform.
+- **Download App Button**: Encourages users to download the Medipool app for a more integrated experience.
 
 ### **Services**
 
